@@ -1,0 +1,25 @@
+{
+    "name": "jmlaureano/trading-calculator",
+    "type": "project",
+    "description": "Trading Calculator",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Justin Laureano",
+            "email": "jmlaureano87@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^8.0.2"
+    },
+    "require-dev": {
+        "laravel/envoy": "^2.8"
+    },
+    "config": {
+        "optimize-autoloader": true,
+        "preferred-install": "dist",
+        "sort-packages": true
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
