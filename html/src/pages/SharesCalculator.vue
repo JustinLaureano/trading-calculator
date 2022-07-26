@@ -74,12 +74,6 @@
                             ></v-text-field>
                         </v-col>
                     </v-row>
-
-                    <v-row>
-                        <v-col>
-                            <h3>Option Info</h3>
-                        </v-col>
-                    </v-row>
                 </v-form>
             </v-card-text>
         </v-card>
